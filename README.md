@@ -318,7 +318,7 @@ const Wrapper = styled.nav`
     color: var(--primary-500);
   }
   .active {
-    color: var(--primary-500);
+    color: var(y-500);
   }
 
   @media (min-width: 768px) {
